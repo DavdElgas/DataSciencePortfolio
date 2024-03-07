@@ -1,1 +1,1 @@
-This repository holds projects I have developed while working on my Masters in Data Science at Harvard University.
+This repository holds projects I have developed while working toward a Masters in Data Science.
